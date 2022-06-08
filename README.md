@@ -33,7 +33,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amr-Wael-Dev&theme=dark)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amr-Wael-Dev&count_private=true&theme=react&showicons=true)](https://github.com/Amr-Wael-Dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Wael-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Wael-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=omarr45&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 - 🔭 I’m currently working on landing an Internship 🏀
 - 🌱 I’m currently learning Software Testing 🤓
