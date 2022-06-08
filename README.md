@@ -38,7 +38,7 @@
 ---
 
 ### 🏆 Github Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=omarr45&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amr-Wael-Dev&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
