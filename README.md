@@ -32,7 +32,7 @@
 
 ### ℹ️ My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amr-Wael-Dev&theme=dark)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amr-Wael-Dev&count_private=true&theme=react&showicons=true)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Amr-Wael-Dev&count_private=true&theme=react&showicons=true)](https://github.com/Amr-Wael-Dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Wael-Dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
