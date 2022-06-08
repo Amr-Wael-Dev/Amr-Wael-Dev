@@ -38,5 +38,5 @@
 
 - 🔭 I’m currently working on landing an Internship 🏀
 - 🌱 I’m currently learning Software Testing 🤓
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/amr-abdelaal-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.facebook.com/amr.wael.2001"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/amr-abdelaal-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> <a href="https://www.facebook.com/amr.wael.2001" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
