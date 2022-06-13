@@ -1,5 +1,5 @@
 <h1>Hi There <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="50"/></h1>
-<h2>I'm Amr Wael. A junior Scientific Computing student at the Faculty of Computer and Information Sciences with over 3 months of voluntary experience</h2>
+<h2>I'm Amr Wael. A junior Scientific Computing student at the Faculty of Computer and Information Sciences with over 6 months of voluntary experience</h2>
 <img src="https://komarev.com/ghpvc/?username=Amr-Wael-Dev&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
