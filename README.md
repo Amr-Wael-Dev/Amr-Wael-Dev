@@ -14,8 +14,8 @@
   <img src="https://www.pngall.com/wp-content/uploads/2016/04/Database-Free-PNG-Image.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://juststickers.in/wp-content/uploads/2017/04/machine-learning.png" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net" alt=".Net" width="40" height="40"/>&nbsp;
+  <img src="https://juststickers.in/wp-content/uploads/2017/04/machine-learning.png" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://store.speedtree.com/site-assets/uploads/Unity-Logo-White.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
